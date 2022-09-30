@@ -11,15 +11,16 @@ Exercicios catalogados:
 - [x] 7.9: 2, 3, 6 e 10
 - [x] 8.7: 4, 6, 11 e 13
 - [x] 8.8: 5, 7 e 10
-- [ ] 8.1: 1, 2, 3 e 9
+- [x] 8.1: 1, 2, 3 e 9
 - [ ] 8.2: 4, 7, 10 e 13
 - [ ] 8.3: 8
 - [ ] 8.4: Derivar a densidade da Dsitribuição t de Student
 - [ ] 8.5: 1, 4, 5 e 6
 - [ ] 9.1: 3, 8, 13, 19 e 21
 - [ ] 9.5: 8
-- [ ] 9.7: Derivar a função de densidade de probabilidade de uma distribuição F
-	   Derivar o teste F como um teste de razão de verossimilhança.
+- [ ] 9.7:
+	- Derivar a função de densidade de probabilidade de uma distribuição F
+	- Derivar o teste F como um teste de razão de verossimilhança.
 - [ ] 11.1: 3
 - [ ] 11.2: 2, 3 e 6
 - [ ] 9.9: 2 e 3
