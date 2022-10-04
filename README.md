@@ -14,7 +14,7 @@ Exercicios catalogados:
 - [x] 8.1: 1, 2, 3 e 9
 - [x] 8.2: 4, 7, 10 e 13
 - [x] 8.3: 8
-- [ ] 8.4: Derivar a densidade da Distribuição t de Student
+- [x] 8.4: Derivar a densidade da Distribuição t de Student
 - [ ] 8.5: 1, 4, 5 e 6
 - [ ] 9.1: 3, 8, 13, 19 e 21
 - [ ] 9.5: 8
