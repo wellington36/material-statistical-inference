@@ -16,7 +16,7 @@ Exercicios catalogados:
 - [x] 8.3: 8
 - [x] 8.4: Derivar a densidade da Distribuição t de Student
 - [x] 8.5: 1, 4, 5 e 6
-- [ ] 9.1: 3, 8, 13, 19 e 21
+- [x] 9.1: 3, 8, 13, 19 e 21
 - [ ] 9.5: 8
 - [ ] 9.7:
 	- Derivar a função de densidade de probabilidade de uma distribuição F
