@@ -22,6 +22,4 @@ Exercicios catalogados:
 	- Derivar a função de densidade de probabilidade de uma distribuição F
 	- Derivar o teste F como um teste de razão de verossimilhança.
 - [x] 11.1: 3
-- [ ] 11.2: 2, 3 e 6
-- [ ] 9.9: 2 e 3
-
+- [x] 11.2: 2, 3 e 6
